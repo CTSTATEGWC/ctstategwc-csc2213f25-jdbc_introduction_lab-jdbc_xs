@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\jbraverman\\Documents\\_CODE\\jdbc_nobuildenv\\jdbc_diy\\lib\\postgresql-42.7.6.jar",
+        "lib/sqlite-jdbc-3.50.3.0.jar"
+    ]
+}
